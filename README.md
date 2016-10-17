@@ -2,4 +2,6 @@
 Repository for the course Applied Data Analysis at EPFL, Autumn 2016
 
 This group includes Luis Medina, Kirtan Padh, and Tina Fang.
-The solutions are in the Lab1 folder.
+The solutions for Lab 2 are in the folder Lab2.
+
+
