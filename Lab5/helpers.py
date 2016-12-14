@@ -2,6 +2,14 @@
 Preprocessing text and html (Tokenizing words and sentences, clean HTML, clean text, removing stopwords, stemming and lemmatization)
 __author__ : Triskelion user@Kaggle (Thanks: Abhishek Thakur & Foxtrot user@Kaggle)
 """
+from nltk import clean_html
+from nltk import SnowballStemmer
+from nltk import PorterStemmer
+from nltk.stem.lancaster import LancasterStemmer
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.corpus import stopwords
+import re
 
 # -*- coding: utf-8 -*-
 
